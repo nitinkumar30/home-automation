@@ -2,6 +2,8 @@
 
 > This is a whole new project which I'm working one  
 > This is an IoT project which is automating the light bulbs and other parts of a house  
+> Code for this project is in the file [nodeMCU_iotMiniProj.ino](https://github.com/nitinkumar30/home-automation/blob/main/nodeMCU_iotMiniProj.ino).  
+> Documentation for this project is in the file [Nitin_HomeAutomationDoc](https://github.com/nitinkumar30/home-automation/blob/main/Nitin_HomeAutomationDoc.pdf).  
 
 
 # Pre-requisites
