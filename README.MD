@@ -22,13 +22,21 @@ I'm not gonna teach you steps on how to do. Everything is present in [this link]
 
 # Images
 
-> 1. Node MCU fully prepared
+> 1. Bulb 1 ON
+![bulb1_ON](https://user-images.githubusercontent.com/40369168/209075533-6284bc07-3e79-4b75-8082-0275b087dd2c.jpg)
 
 
-> 2. Relay Module fully prepared
+
+> 2. Bulb 2 ON
+![bulb2_ON](https://user-images.githubusercontent.com/40369168/209075571-280e8a97-865c-46dc-90a6-887d573ec845.jpg)
 
 
-> 3. Working of this project
+> 3. Bulb 1 & bulb 2 ON
+![bulb1_bulb2_ON](https://user-images.githubusercontent.com/40369168/209075600-ca3f894b-b998-4c55-abae-855a7e91c339.jpg)
+
+
+> 4. Full Working video
+![20221220_195435](https://user-images.githubusercontent.com/40369168/209075634-dc63917d-9efe-4248-9afd-c7b30f30e808.jpg)
 
 
 
